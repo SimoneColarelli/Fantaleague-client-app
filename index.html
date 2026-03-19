@@ -2113,7 +2113,7 @@
                             filteredData[table] = [];
                             continue;
                         }
-                        const response = await fetch(`${table}.json`);
+                        const response = await fetch(`data.json`);
                         let jsonDataFormatted = [];
                         if (response.ok) {
                             let jsonData = await response.json();
@@ -2122,12 +2122,12 @@
                             data[table] = jsonDataFormatted;
                             filteredData[table] = [...data[table]];
                         } else {
-                            console.warn(`Could not load ${table}.json`);
+                            console.warn(`Could not load data.json`);
                             data[table] = [];
                             filteredData[table] = [];
                         }
                     } catch (err) {
-                        console.warn(`Error loading ${table}.json:`, err);
+                        console.warn(`Error loading data.json:`, err);
                         data[table] = generateSampleData(table);
                         filteredData[table] = [...data[table]];
                         console.log(err);
@@ -2948,8 +2948,17 @@
             const valoreRosa = ownedPlayers.reduce((s, g) => s + (parseFloat(g.valore_svincolo) || 0), 0);
             const patrimonio = (parseFloat(team.fm) || 0) + valoreRosa;
 
-            // Build roster rows
-            const rosterRows = inRosaPlayers.map(g => {
+            // Build roster rows — sorted by badge priority: Fuori R. > Non conv. > Prestito > clean
+            const badgePriority = g => {
+                const inPrestito = g.in_prestito_a === team.nome;
+                if (!g.in_serie_a) return 0;
+                if (!g.convocato)  return 1;
+                if (inPrestito)    return 2;
+                return 3;
+            };
+            const sortedRoster = [...inRosaPlayers].sort((a, b) => badgePriority(a) - badgePriority(b));
+
+            const rosterRows = sortedRoster.map(g => {
                 const inPrestito = g.in_prestito_a === team.nome;
                 const badges = [
                     inPrestito ? `<span class="fq-badge fq-badge-prestito">Prestito</span>` : '',
