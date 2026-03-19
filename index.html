@@ -2943,8 +2943,8 @@
                 )
             );
 
-            const inRosa = inRosaPlayers.length;
-            const convocati = inRosaPlayers.filter(g => g.convocato).length;
+            const inRosa = inRosaPlayers.filter(g => g.in_serie_a).length;
+            const convocati = inRosaPlayers.filter(g => g.in_serie_a && g.convocato).length;
             const valoreRosa = ownedPlayers.reduce((s, g) => s + (parseFloat(g.valore_svincolo) || 0), 0);
             const patrimonio = (parseFloat(team.fm) || 0) + valoreRosa;
 
