@@ -172,3 +172,19 @@ test('legacy IDs cannot assign an archived value to a different player', async (
     const source = { ...database, giocatori: [{ ...player, nome: 'Different player with reused ID' }] };
     assert.deepEqual(await readDatabase(store, source), source);
 });
+
+test('saves are visible when the store decodes percent-encoded keys like Netlify Blobs', async () => {
+    const stored = new Map();
+    const store = {
+        async setJSON(key, value) { stored.set(decodeURIComponent(key), structuredClone(value)); },
+        async get(key) { return stored.get(decodeURIComponent(key)); },
+        async *list({ prefix }) { yield { blobs: [...stored.keys()].filter(key => key.startsWith(prefix)).map(key => ({ key })) }; }
+    };
+    const player = database.giocatori.find(p => !p.deleted && p.nome.includes(' '));
+    const handler = createHandler(() => store);
+    const result = await handler(request('players', { method: 'PATCH', headers: { origin, cookie },
+        body: JSON.stringify({ nome: player.nome, convocato: !player.convocato }) }));
+    assert.equal(result.status, 200);
+    const data = await (await handler(request('players'))).json();
+    assert.equal(data.giocatori.find(p => p.id === player.id).convocato, !player.convocato);
+});
