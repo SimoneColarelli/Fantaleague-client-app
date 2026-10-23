@@ -1,0 +1,2402 @@
+[
+  {
+    "nome_giocatore": "Abankwah",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Aboukhlal",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Adams A.",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Adams C.",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Addai",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Adopo",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Adorante",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Adzic",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Ahanor",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Akanji",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Akinsanmiro",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Akpoguma",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Alaba",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Alajbegovic",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Albarracin",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Alhassane",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Almqvist",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Amey",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Amondarain",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Amorim",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Angelino",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Anjorin",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Antov",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Arizala",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Athekame",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Atta",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Aurelio",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Azon",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Badiashile",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Bakola",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Bakoune",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Baldanzi",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Balerdi",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Barella",
+    "quotazione_mantra": 18
+  },
+  {
+    "nome_giocatore": "Bartesaghi",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Basic",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Bastoni",
+    "quotazione_mantra": 14
+  },
+  {
+    "nome_giocatore": "Baturina",
+    "quotazione_mantra": 19
+  },
+  {
+    "nome_giocatore": "Bayo V.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Belahyane",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Belghali",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Bella-Kotchap",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Bellanova",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Berardi",
+    "quotazione_mantra": 20
+  },
+  {
+    "nome_giocatore": "Berisha M.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Bernabè",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Bernardeschi",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Bernasconi",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Bertola",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Beto",
+    "quotazione_mantra": 14
+  },
+  {
+    "nome_giocatore": "Beukema",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Bijlow",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Biraghi",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Birindelli",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Birligea",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Bisseck",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Bjarkason",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Bleve",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Bobcek",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Boga",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Boloca",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Bonny",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Borrelli",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Bowie",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Bracaglia",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Braganca",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Bremer",
+    "quotazione_mantra": 16
+  },
+  {
+    "nome_giocatore": "Brescianini",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Britschgi",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Buksa",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Buongiorno",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Busio",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Butez",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Cabal",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Cacciamani",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Caleta-Car",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Calhanoglu",
+    "quotazione_mantra": 29
+  },
+  {
+    "nome_giocatore": "Calvani",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Calò",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Camara A.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Camarda",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Cambiaghi",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Cambiaso",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Cancellieri",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Candè",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Caprile",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Caqueret",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Carboni A.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Carboni F.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Carlos Augusto",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Carnesecchi",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "Casadei",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Casale",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Castro S.",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Cataldi",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Celik",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Chakvetadze",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Chalobah T.",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Christensen O.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Chukwueze",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Cichella",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Ciervo",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Cinquegrano",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Ciocci",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Circati",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Cissè A.",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Cittadini",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Ciurria",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Coco",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Colombo",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Colombo L.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Colpani",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Comert",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Comotto",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Comuzzo",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Conceicao",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Contini",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Corrado",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Correia T.",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Corvi",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Coulibaly L.",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Couto",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Cremaschi",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Cristante",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Cuenca A.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Cutrone",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Da Cunha",
+    "quotazione_mantra": 18
+  },
+  {
+    "nome_giocatore": "Daffara",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Dagasso",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Dallinga",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "David",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Davis K.",
+    "quotazione_mantra": 19
+  },
+  {
+    "nome_giocatore": "De Bruyne",
+    "quotazione_mantra": 16
+  },
+  {
+    "nome_giocatore": "De Gea",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "De Ketelaere",
+    "quotazione_mantra": 18
+  },
+  {
+    "nome_giocatore": "De Martis",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "De Marzi",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "De Roon",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "De Silvestri",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "De Winter",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Deiola",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Dele-Bashiru",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Delli Carri",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Delprato",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Dembelè A.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Desplanches",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Di Gennaro",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Di Gregorio",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Di Lorenzo",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Dia",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Diallo O.",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Diao",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Diawara S.",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Diego Carlos",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Dimarco",
+    "quotazione_mantra": 29
+  },
+  {
+    "nome_giocatore": "Diouf",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Djimsiti",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Dodò",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Doekhi",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Doig",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Dominguez B.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Douglas Luiz",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Douvikas",
+    "quotazione_mantra": 22
+  },
+  {
+    "nome_giocatore": "Dovbyk",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Dragusin",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Drameh",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Drobnic",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Duncan",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Dybala",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "Ebosse",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Ederson D.S.",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Ehizibue",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Ekhator",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Ekkelenkamp",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "El Aynaoui",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "El Azzouzi A.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "El Azzouzi O.",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "El Shaarawy",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Ellertsson",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Elmas",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Elphege",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Enem",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Esposito F.P.",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "Esposito Se.",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Esteban",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Estupinan",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Fabbian",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Fadera",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Fagioli",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Falcone",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Fatah",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Favasuli",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Fazzini",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Felici",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Ferguson",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Fernandez T.",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Fini ",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Fitz-Jim",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Floriani Mussolini",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Foe Ondoa",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Fofana Sa.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Fofana Y.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Folorunsho",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Forson O.",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Fortini",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Franjic",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Frattesi",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Frendrup",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Frigan",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Fruchtl",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Gabbia",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Gaetano",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Gagliardini",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Gallo",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Gandelman",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Gaspar K.",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Gatti",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Gelli F.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Gelli J.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Geubbels",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Ghedjemis",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Ghidotti",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Ghilardi",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Gila",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Gilmour",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Gimenez",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Gineitis",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Giovane",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Gnonto",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Goglichidze",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Goldaniga",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Gollini",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Gomes",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Goncalves P.",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Gonzalez N.",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Gorter",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Grabara",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Grandi",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Grillitsch",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Gudmundsson A.",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Gueye",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Gutierrez",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Hainaut",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Halhal",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Happonen",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Haps",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Hasa",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Havel",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Heggem",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Helgason",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Helland",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Hermoso",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Hien",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Hojlund",
+    "quotazione_mantra": 28
+  },
+  {
+    "nome_giocatore": "Holm",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Hutchinson",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Iannoni",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Idrissi R.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Idzes",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Ilic",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Ilkhan",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Isaksen",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Ismajli",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Jashari",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Jean",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Jimenez A.",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Joao Mario",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Jones C.",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Jovanovic",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Juan Jesus",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Kaba",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Kabasele",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Kaiki",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Kalulu",
+    "quotazione_mantra": 14
+  },
+  {
+    "nome_giocatore": "Kamara H.",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Kambwala",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Karlstrom",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Kean",
+    "quotazione_mantra": 24
+  },
+  {
+    "nome_giocatore": "Keita M.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Kelly L.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Kempf",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Kessiè",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Kevin Carlos",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Kofler",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Kolasinac",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Kolo Muani",
+    "quotazione_mantra": 25
+  },
+  {
+    "nome_giocatore": "Kone B.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Konè I.",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Konè M.",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Koopmeiners",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Kossounou",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Kouadio",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Koulierakis",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Koutsoupias",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Kristensen T.",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Krstovic",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "Kuhn",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Kulenovic",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Kvernadze",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Laerke",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Lahdo",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Lang",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Lauberbach",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Laurientè",
+    "quotazione_mantra": 16
+  },
+  {
+    "nome_giocatore": "Lazzari",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Leao",
+    "quotazione_mantra": 19
+  },
+  {
+    "nome_giocatore": "Leite",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Leysen F.",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Lezzerini",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Liberali",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Libra",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Lipani",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Lisman",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Liteta",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Lobotka",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Locatelli",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Loftus-Cheek",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Lolic",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Lontani",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Lovric",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Lucca",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Lucchesi",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Lucumì",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Luis Henrique",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Lukaku",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Lulli",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Macchioni",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Maignan",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Maldini",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Maleh",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Malen",
+    "quotazione_mantra": 38
+  },
+  {
+    "nome_giocatore": "Mancini",
+    "quotazione_mantra": 16
+  },
+  {
+    "nome_giocatore": "Mandas",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Mandragora",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Mangas",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Marcandalli",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Marianucci",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Marin R.",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Martin",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Martinez Jo.",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "Martinez L.",
+    "quotazione_mantra": 33
+  },
+  {
+    "nome_giocatore": "Marusic",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Mascardi",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Masini",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Massolin",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Mastantuono",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Matic",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Matturro",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Maye",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Mazzocchi",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Mbangula",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "McKennie",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "McTominay",
+    "quotazione_mantra": 27
+  },
+  {
+    "nome_giocatore": "Meichtry",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Mendy P.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Meret",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Messias",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Milik",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Milinkovic-Savic V.",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Milla",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Miller L.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Mina",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Miranda J.",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Miretti",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Missori",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Mitaj",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Mkhitaryan",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Mlacic",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Modric",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Molina N.",
+    "quotazione_mantra": 18
+  },
+  {
+    "nome_giocatore": "Monteiro J.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Monterisi",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Montipò",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Mora",
+    "quotazione_mantra": 19
+  },
+  {
+    "nome_giocatore": "Morata",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Moreira",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Moreno M.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Moro L.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Moro N.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Mota",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Motta",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Mout",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Mrozek",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Muric",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Musah",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Mutandwa",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "N'Dicka",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "N'Dri",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Ndaba",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Ndiaye",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Ndour",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Neres",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Neto",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Ngom",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Ngonge",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Nicolussi Caviglia",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Njie",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Nkunku",
+    "quotazione_mantra": 14
+  },
+  {
+    "nome_giocatore": "Norton-Cuffy",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Noslin",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Nzola",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Obert",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Obrador",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Obric",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Odenthal",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Odgaard",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Okoye",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Olivera",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Omar Fayed",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Ondrejka",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Ordonez C.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Oristanio",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Orsolini",
+    "quotazione_mantra": 24
+  },
+  {
+    "nome_giocatore": "Osmajic",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Ostigard",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Otoa",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Oulai",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Oyono A.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Oyono J.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Padelli",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Paleari",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Palma",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Palmisani",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Parisi",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Pasalic",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Patric",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Patterson",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Pavard",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Pavlovic",
+    "quotazione_mantra": 14
+  },
+  {
+    "nome_giocatore": "Paz N.",
+    "quotazione_mantra": 27
+  },
+  {
+    "nome_giocatore": "Pedersen",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Pedraza",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Pellegrini Lo.",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Pellegrini Lu.",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Pellegrino M.",
+    "quotazione_mantra": 14
+  },
+  {
+    "nome_giocatore": "Penev",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Perez K.",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Perez M.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Perin",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Perri",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Perrone",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Pessina",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Pessina Mas.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Petagna",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Piana",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Piccoli",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Pieragnolo",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Pierotti",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Pinamonti",
+    "quotazione_mantra": 11
+  },
+  {
+    "nome_giocatore": "Pinsoglio",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Piotrowski",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Pisilli",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Pisseri",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Pizzignacco",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Pobega",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Politano",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Pompei",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Pongracic",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Pozzi",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Prati",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Provedel",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Provstgaard",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Przyborek",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Puczka",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Pulisic",
+    "quotazione_mantra": 22
+  },
+  {
+    "nome_giocatore": "Rabiot",
+    "quotazione_mantra": 23
+  },
+  {
+    "nome_giocatore": "Radunovic",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Raimondo",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Ramon",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Ramos G.",
+    "quotazione_mantra": 27
+  },
+  {
+    "nome_giocatore": "Ranieri L.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Raspadori",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Raterink",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Ratkov",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Rensch",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Renzetti",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Ricci S.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Robinho Junior",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Robinson J.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Rodriguez Je.",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Rodriguez Ju.",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Rodriguez R.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Romagnoli",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Romano",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Romero D.",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Rossi F.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Rovella",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Rowe",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Rrahmani",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Rrahmani Al.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Rugani",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Russo A.",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Sabelli",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Saelemaekers",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Sagrado",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Samardzic",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Samooja",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Sanchez Ro.",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Santos A.",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Sarr P.",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Satalino",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Scalvini",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Scamacca",
+    "quotazione_mantra": 18
+  },
+  {
+    "nome_giocatore": "Schingtienne",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Schmid",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Sherri",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Siebert",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Sierro",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Simeone",
+    "quotazione_mantra": 14
+  },
+  {
+    "nome_giocatore": "Siviero",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Skorupski",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Smolcic I.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Sohm",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Solet",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Sommariva",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Sorensen O.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Soulè",
+    "quotazione_mantra": 14
+  },
+  {
+    "nome_giocatore": "Sow",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Spence",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Spinazzola",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Sportiello",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Stankovic A.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Stankovic F.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Stolz",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Stones",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Strajnar",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Stulic",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Sucic P.",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Sugawara",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Sulemana I.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Sulemana K.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Sutalo J.",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Suzuki",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Sverko",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Svilar",
+    "quotazione_mantra": 19
+  },
+  {
+    "nome_giocatore": "Tavares N.",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Taylor K.",
+    "quotazione_mantra": 13
+  },
+  {
+    "nome_giocatore": "Tchato",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Terracciano",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Terracciano F.",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Terzic",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Theate",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Thiam",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Thorstvedt",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Thuram",
+    "quotazione_mantra": 28
+  },
+  {
+    "nome_giocatore": "Thuram K.",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Tiago Gabriel",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Tomori",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Tornqvist",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Torriani",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Tourè E.",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Tourè I.",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Traorè Hj.",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Trepy",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Troilo",
+    "quotazione_mantra": 3
+  },
+  {
+    "nome_giocatore": "Turati",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Unai Gomez",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Valdepenas",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Valenti",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Valeri",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Valle",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Van Der Brempt",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Varela G.",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Vasquez",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Vaz",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Veiga D.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Venturino",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Vergara",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Vicario",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "Viery",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Vigorito",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Vismara",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Vitik",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Vitinha O.",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Vlasic",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Vogliacco",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Vojvoda",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Volpato",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Walukiewicz",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Wesley",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "Winks",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Woltemade",
+    "quotazione_mantra": 23
+  },
+  {
+    "nome_giocatore": "Yeboah J.",
+    "quotazione_mantra": 9
+  },
+  {
+    "nome_giocatore": "Yildiz",
+    "quotazione_mantra": 23
+  },
+  {
+    "nome_giocatore": "Zaccagni",
+    "quotazione_mantra": 15
+  },
+  {
+    "nome_giocatore": "Zalewski",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Zambo Anguissa",
+    "quotazione_mantra": 10
+  },
+  {
+    "nome_giocatore": "Zaniolo",
+    "quotazione_mantra": 17
+  },
+  {
+    "nome_giocatore": "Zanoli",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Zapata D.",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Zappa",
+    "quotazione_mantra": 4
+  },
+  {
+    "nome_giocatore": "Zappacosta",
+    "quotazione_mantra": 8
+  },
+  {
+    "nome_giocatore": "Zarraga",
+    "quotazione_mantra": 2
+  },
+  {
+    "nome_giocatore": "Zeballos",
+    "quotazione_mantra": 6
+  },
+  {
+    "nome_giocatore": "Zerbin",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Zhegrova",
+    "quotazione_mantra": 5
+  },
+  {
+    "nome_giocatore": "Zielinski",
+    "quotazione_mantra": 12
+  },
+  {
+    "nome_giocatore": "Ziolkowski",
+    "quotazione_mantra": 1
+  },
+  {
+    "nome_giocatore": "Zortea",
+    "quotazione_mantra": 7
+  },
+  {
+    "nome_giocatore": "Zè Pedro",
+    "quotazione_mantra": 6
+  }
+]

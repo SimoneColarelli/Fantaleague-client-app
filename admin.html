@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <title>Admin — Magic Fantaleague</title>
+    <link rel="manifest" href="./manifest.webmanifest">
+    <link rel="apple-touch-icon" href="./image/icon-192.png">
+    <link rel="stylesheet" href="./admin.css">
+    <script src="./admin.js" defer></script>
+    <script src="./pwa.js" defer></script>
+</head>
+<body>
+    <div id="refresh-indicator" hidden aria-hidden="true"><span></span></div>
+    <main>
+        <header>
+            <div class="admin-topbar">
+                <a href="./">Magic Fantaleague</a>
+                <button id="logout" type="button" hidden>Esci</button>
+            </div>
+            <h1>Admin</h1>
+            <h2 class="admin-subtitle">Modifica convocazioni</h2>
+        </header>
+        <p id="status" role="status" aria-live="polite">Verifica accesso…</p>
+        <form id="login" hidden>
+            <label for="password">Password admin</label>
+            <input id="password" name="password" type="password" autocomplete="current-password" required>
+            <button type="submit">Accedi</button>
+        </form>
+        <section id="editor" hidden aria-label="Giocatori">
+            <div class="filters">
+                <label for="search">Nome Giocatore</label>
+                <input id="search" type="search" autocomplete="off" placeholder="Cerca giocatore…">
+                <label for="team">Squadra</label>
+                <select id="team"><option value="">Tutte le squadre</option></select>
+            </div>
+            <p>Le modifiche vengono salvate automaticamente. È necessaria una connessione Internet.</p>
+            <div id="players"></div>
+        </section>
+    </main>
+</body>
+</html>
