@@ -32,13 +32,22 @@ async function readOverrides(store, prefix) {
     return overrides;
 }
 
+// Netlify Blobs decodes percent-encoded keys server-side, so a key written as
+// "player-name/Santos%20A." is listed back as "player-name/Santos A.".
+// Compare decoded names so both forms match the player.
+function keyName(key, prefix) {
+    const raw = key.slice(prefix.length);
+    try { return decodeURIComponent(raw); } catch { return raw; }
+}
+
 export async function readDatabase(store, source = database) {
-    const named = await readOverrides(store, 'player-name/');
+    const prefix = 'player-name/';
+    const named = new Map();
+    for (const [key, convocato] of await readOverrides(store, prefix)) named.set(keyName(key, prefix), convocato);
     return {
         ...source,
         giocatori: source.giocatori.map(player => {
-            const key = playerKey(player.nome);
-            if (named.has(key)) return { ...player, convocato: named.get(key) };
+            if (named.has(player.nome)) return { ...player, convocato: named.get(player.nome) };
             return { ...player };
         })
     };
